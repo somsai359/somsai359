@@ -1,6 +1,8 @@
 <h1 align="center">hola 👋, Soy darruru</h1>
 <h3 align="center">A passionate BACKEND developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/76832603/216790090-f3dfa30f-f2ab-42fd-94e4-dc2777efeb38.gif">
+
+<img align="right" alt="coding" width="400" height = "300" src="https://user-images.githubusercontent.com/76832603/216790090-f3dfa30f-f2ab-42fd-94e4-dc2777efeb38.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somsai359&label=Profile%20views&color=0e75b6&style=flat" alt="somsai359" /> </p>
 
 - 🌱 I’m currently learning **SpringBoot**
