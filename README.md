@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somsai359&label=Profile%20views&color=0e75b6&style=flat" alt="somsai359" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somsai359" alt="somsai359" /></a> </p>
+<p align="left"> <a href="https:![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/76832603/216789736-d3b2855b-98d5-4be6-b42a-43c6eceb9684.gif)
+//github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somsai359" alt="somsai359" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/saichou32802071" target="blank"><img src="https://img.shields.io/twitter/follow/saichou32802071?logo=twitter&style=for-the-badge" alt="saichou32802071" /></a> </p>
 
