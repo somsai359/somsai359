@@ -10,7 +10,7 @@
 - 📫 How to reach me **somasaichowdary01@gmail.com**
 
 - ⚡ Fun fact **I think I am serious**
-<h3 align="left">Portfolio WebSite:</h3>
+<h3 align="left">My Portfolio:</h3>
   Link: http://bitly.ws/CR7s
 
 <h3 align="left">Connect with me:</h3>
