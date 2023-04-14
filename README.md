@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think I am serious**
 <h3 align="left">My Portfolio:</h3>
-  Link: http://bitly.ws/CR7s
+  Link: https://portfolio-b862b.web.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
