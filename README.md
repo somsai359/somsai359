@@ -18,7 +18,7 @@
 <a href="https://twitter.com/saichou32802071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saichou32802071" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/darruru-somasai-36b71a219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/darruru-somasai-36b71a219/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/somasaichowdary01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="somasaichowdary01" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/somasai darruru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="somasai darruru" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/somasaichowdary1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="somasai darruru" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/somasaichowdary01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="somasaichowdary01" height="30" width="40" /></a>
 </p>
 
