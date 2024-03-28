@@ -1,5 +1,5 @@
 <h1 align="center"> hola 👋 Soy darruru</h1>
-<h3 align="center">A passionate BACKEND developer from India</h3>
+<h3 align="center">A passionate FULL STACK developer from India</h3>
 
 <img align="right"   align = "center" alt="coding" width="400" height = "300" src="https://user-images.githubusercontent.com/76832603/216790090-f3dfa30f-f2ab-42fd-94e4-dc2777efeb38.gif">
 
