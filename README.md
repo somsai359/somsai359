@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somsai359&label=visitors&color=0e75b6&style=flat" alt="somsai359" /> </p>
 
-- 🌱 I’m currently working on **Nodejs**
+- 🌱 I’m currently working on **DotNet & Angular**
 
 - 📫 How to reach me **somasaichowdary01@gmail.com**
 
